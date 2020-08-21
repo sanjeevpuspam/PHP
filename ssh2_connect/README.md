@@ -8,13 +8,14 @@
 
 Below details you can change according to your setup.
 
-- $this->url 		= 'host'
-- $this->port		= 22
-- $this->user		= 'username'
-- $this->pass		= 'password'
-- $this->remoteDir= '/test/projectame'
-- $this->localdir = "E:\server_backup\projectame"
-
+```
+ $this->url 		= 'host'
+ $this->port		= 22
+ $this->user		= 'username'
+ $this->pass		= 'password'
+ $this->remoteDir= '/test/projectame'
+ $this->localdir = "E:\server_backup\projectame"
+```
 
 If you want to read any of the used function of PHP, then go to the officeally documentation of that functions
 
