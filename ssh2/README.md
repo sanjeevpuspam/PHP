@@ -8,14 +8,14 @@
 
 Below details you can change according to your setup.
 
-`$this->url 		= 'host';`
-`$this->port		= 22;`
-`$this->user		= 'username';`
-`$this->pass		= 'password';`
-`$this->remoteDir	= '/test/projectame';`
-`$this->localdir 	= "E:\server_backup\projectame";`
+```$this->url 		= 'host'```
+```$this->port		= 22```
+```$this->user		= 'username'```
+```$this->pass		= 'password'```
+````$this->remoteDir	= '/test/projectame'```
+```$this->localdir 	= "E:\server_backup\projectame"```
 
-If you want to read any of the used function of PHP, then go to the link of that functions
+If you want to read any of the used function of PHP, then go to the officeally documentation of that functions
 
 1. [ssh2_connect](https://www.php.net/manual/en/function.ssh2-connect.php),
 2. [ssh2_auth_password](https://www.php.net/manual/en/function.ssh2-auth-password.php)
