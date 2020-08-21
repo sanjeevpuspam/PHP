@@ -2,18 +2,21 @@
 
 #### PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages. PHP is a widely-used, free, and efficient alternative to competitors such as Microsoft's ASP.
 
-### ssh2_connect — Connect to an SSH server
+### ssh2 — Connect to an SSH server
+
+##### The SSH2 extension provides functions for accessing remote machines using the secure SSH and SFTP protocols.
 
 Below details you can change according to your setup.
 
-`$this->url 		= 'host';`
-`$this->port		= 22;`
-`$this->user		= 'username';`
-`$this->pass		= 'password';`
-`$this->remoteDir	= '/test/projectame';`
-`$this->localdir 	= "E:\server_backup\projectame";`
+- $this->url 		= 'host'
+- $this->port		= 22
+- $this->user		= 'username'
+- $this->pass		= 'password'
+- $this->remoteDir= '/test/projectame'
+- $this->localdir = "E:\server_backup\projectame"
 
-If you want to read any of the used function of PHP, then go to the link of that functions
+
+If you want to read any of the used function of PHP, then go to the officeally documentation of that functions
 
 1. [ssh2_connect](https://www.php.net/manual/en/function.ssh2-connect.php),
 2. [ssh2_auth_password](https://www.php.net/manual/en/function.ssh2-auth-password.php)
@@ -34,6 +37,6 @@ If you want to read any of the used function of PHP, then go to the link of that
 17. [file_exists](https://www.php.net/manual/en/function.file-exists.php)
 18. [array_diff](https://www.php.net/manual/en/function.array-diff.php)
 19. [count](https://www.php.net/manual/en/function.count)
-20. [is_file] (https://www.php.net/manual/en/function.is-file.php)
+20. [is_file](https://www.php.net/manual/en/function.is-file.php)
 21. [ssh2_sftp_mkdir](https://www.php.net/manual/en/function.ssh2-sftp-mkdir.php)
 22. [fwrite](https://www.php.net/manual/en/function.fwrite.php)
