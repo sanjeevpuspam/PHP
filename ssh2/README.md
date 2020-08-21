@@ -36,6 +36,6 @@ If you want to read any of the used function of PHP, then go to the link of that
 17. [file_exists](https://www.php.net/manual/en/function.file-exists.php)
 18. [array_diff](https://www.php.net/manual/en/function.array-diff.php)
 19. [count](https://www.php.net/manual/en/function.count)
-20. [is_file] (https://www.php.net/manual/en/function.is-file.php)
+20. [is_file](https://www.php.net/manual/en/function.is-file.php)
 21. [ssh2_sftp_mkdir](https://www.php.net/manual/en/function.ssh2-sftp-mkdir.php)
 22. [fwrite](https://www.php.net/manual/en/function.fwrite.php)
